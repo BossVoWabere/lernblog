@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "My Name"
-description = "A Journey of Life and Learning"
-footerLeft = "Powered by ❤️ and [lernblog.org](https://www.lernblog.org)"
+title = "THEO"
+description = "A Journey of 420"
+footerLeft = "https://theo420.netlify.app/"
 footerRight = ""
 +++
