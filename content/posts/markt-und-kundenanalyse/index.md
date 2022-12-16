@@ -4,12 +4,15 @@ date = "2022-09-20"
 draft = false
 pinned = false
 tags = []
+image = "csm_viktualienmarkt-muenchen-c-shutterstock.com-2640_1ae74cd03b.jpg"
 description = "Will man sein eigenes Start-up gründen, muss einiges im voraus planen. Vieles davon wird in der Markt- und Kundenanalyse gemacht.  "
 footnotes = "Theo"
 +++
 Der Markt ist einer der wichtigsten Sachen der heutigen Zeit und er ist überall vorhanden.
 
 Der Markt hängt sehr stark von dem Produkt oder Dienstleistung welches angeboten wird. Zu beginn sollte man seinen Markt möglichst breit annehmen und dann immer detaillierter werden. 
+
+![](konzeption_marktanalyse_allefreiheit.jpg)
 
 Will man zum Beispiel Skateboards verkaufen, würde man an Kinder denken. Aber darf nicht vergessen das Eltern, Brüder oder auch Onkel und Tanten ein Skateboard kaufen würde um es zu verschenken. 
 
